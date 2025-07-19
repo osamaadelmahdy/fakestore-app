@@ -45,4 +45,22 @@ bun install
 bun run dev
 ``` 
 
+### 4. Open in Browser
+http://localhost:3000
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](./screenshots/home.png)
+![Home 2](./screenshots/home2.png)
+![Home 3](./screenshots/home3.png)
+
+### 📄 Product Detail Page
+![Detail](./screenshots/detail.png)
+![Detail 2](./screenshots/detail2.png)
+
+### 📱 Mobile Views
+![Home Mobile](./screenshots/home-sm.png)
+![Detail Mobile](./screenshots/detail-sm.png)
+
 ---
